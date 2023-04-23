@@ -7,6 +7,7 @@ import App from "./src/App";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
+  // personal e-commerce project
   return (
     <>
       <Head>
